@@ -495,7 +495,8 @@
       "SDR_Diode",
       "SDR_Capacitor",
       "SDR_OP",
-      "SDR_IC"
+      "SDR_IC",
+      "TouchKnob"
     ]
   },
   "meta": {

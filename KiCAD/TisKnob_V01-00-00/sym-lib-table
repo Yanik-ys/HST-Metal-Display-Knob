@@ -6,4 +6,5 @@
   (lib (name "SDR_Capacitor")(type "KiCad")(uri "C:/Users/yanik/OneDrive/Desktop/08_SDR-Board_PP21/02_Hardware/00_SDR_Hardware_Library/SDR_Capacitor.kicad_sym")(options "")(descr ""))
   (lib (name "SDR_OP")(type "KiCad")(uri "C:/Users/yanik/OneDrive/Desktop/08_SDR-Board_PP21/02_Hardware/00_SDR_Hardware_Library/SDR_OP.kicad_sym")(options "")(descr ""))
   (lib (name "SDR_IC")(type "KiCad")(uri "C:/Users/yanik/OneDrive/Desktop/08_SDR-Board_PP21/02_Hardware/00_SDR_Hardware_Library/SDR_IC.kicad_sym")(options "")(descr ""))
+  (lib (name "TouchKnob")(type "KiCad")(uri "C:/Users/yanik/OneDrive/Documents/GitHub/HST-Metal-Display-Knob/KiCAD/TouchKnob_Library/TouchKnob.kicad_sym")(options "")(descr ""))
 )
