@@ -488,7 +488,8 @@
     "pinned_footprint_libs": [
       "SDR_Connector",
       "SDR_IC",
-      "SDR_INDCUTOR"
+      "SDR_INDCUTOR",
+      "TouchKnob"
     ],
     "pinned_symbol_libs": [
       "SDR_Connector",
